@@ -1,0 +1,17 @@
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.csproj.AssemblyReference.cache
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.csproj.GenerateResource.cache
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.AssemblyInfoInputs.cache
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.AssemblyInfo.cs
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.csproj.CoreCompileInputs.cache
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\bin\Debug\net6.0-windows\testTaskForDigitalDesign.exe
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\bin\Debug\net6.0-windows\testTaskForDigitalDesign.deps.json
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\bin\Debug\net6.0-windows\testTaskForDigitalDesign.runtimeconfig.json
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\bin\Debug\net6.0-windows\testTaskForDigitalDesign.dll
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\bin\Debug\net6.0-windows\testTaskForDigitalDesign.pdb
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.dll
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\ref\testTaskForDigitalDesign.dll
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.pdb
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.genruntimeconfig.cache
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\refint\testTaskForDigitalDesign.dll
+C:\Users\Alina\source\repos\testTaskForDigitalDesign\testTaskForDigitalDesign\obj\Debug\net6.0-windows\testTaskForDigitalDesign.SafeButton.resources
