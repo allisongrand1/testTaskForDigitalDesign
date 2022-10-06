@@ -55,18 +55,25 @@ namespace testTaskForDigitalDesign
         private void SubmitButton_Click(object sender, EventArgs e)
         {
             textBox.TextChanged += textBox_TextChanged;
-            n = Convert.ToInt32(textBox.Text);
-            if (n < 9)
+            try
             {
-                _buttons = new SafeButton[n, n];
-                label.Visible = false;
-                textBox.Visible = false;
-                submitButton.Visible = false;
-                Buttons();
+                n = Convert.ToInt32(textBox.Text);
+                if (n < 9 && n != 0)
+                {
+                    _buttons = new SafeButton[n, n];
+                    label.Visible = false;
+                    textBox.Visible = false;
+                    submitButton.Visible = false;
+                    Buttons();
+                }
+                else
+                {
+                    MessageBox.Show("¬ведите число меньше 9");
+                    textBox.Clear();
+                }
             }
-            else
-            {
-                MessageBox.Show("¬ведите число меньше 9");
+            catch (Exception error) {
+                MessageBox.Show("¬ведите цифры");
                 textBox.Clear();
             }
         }
